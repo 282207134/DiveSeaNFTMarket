@@ -1,0 +1,422 @@
+[
+  {
+    "id": "3:4975",
+    "name": "1-Onboarding 01",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": -2602,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "1-onboarding-01"
+  },
+  {
+    "id": "6:4925",
+    "name": "2-Onboarding 02",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": -2602,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "2-onboarding-02"
+  },
+  {
+    "id": "6:4948",
+    "name": "3-Onboarding 03",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7403,
+      "y": -2602,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "3-onboarding-03"
+  },
+  {
+    "id": "6:4991",
+    "name": "4-Get Started",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6878,
+      "y": -2602,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "4-get-started"
+  },
+  {
+    "id": "6:5056",
+    "name": "5-Choose Wallet",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": -611,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "5-choose-wallet"
+  },
+  {
+    "id": "6:5191",
+    "name": "6-Open Wallet",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": -611,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10,
+    "slug": "6-open-wallet"
+  },
+  {
+    "id": "8:13112",
+    "name": "7-Create Account",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": 1380,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "7-create-account"
+  },
+  {
+    "id": "8:13232",
+    "name": "8-Create Account Active",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": 1380,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "8-create-account-active"
+  },
+  {
+    "id": "8:13340",
+    "name": "9-Login Account",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7403,
+      "y": 1380,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "9-login-account"
+  },
+  {
+    "id": "8:13479",
+    "name": "10-Login Account Active",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6878,
+      "y": 1380,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "10-login-account-active"
+  },
+  {
+    "id": "8:5040",
+    "name": "11-Home",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": 3371,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "11-home"
+  },
+  {
+    "id": "8:5137",
+    "name": "14-Product",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": 5362,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4,
+    "slug": "14-product"
+  },
+  {
+    "id": "8:5500",
+    "name": "12-Home V2",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": 3371,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "12-home-v2"
+  },
+  {
+    "id": "8:5673",
+    "name": "13-Best Sellers",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7403,
+      "y": 3371,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "13-best-sellers"
+  },
+  {
+    "id": "8:6862",
+    "name": "15-Detail",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": 5362,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "15-detail"
+  },
+  {
+    "id": "8:7258",
+    "name": "16-Bid ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7403,
+      "y": 5362,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11,
+    "slug": "16-bid"
+  },
+  {
+    "id": "8:7079",
+    "name": "17-Place Bid",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6878,
+      "y": 5362,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11,
+    "slug": "17-place-bid"
+  },
+  {
+    "id": "8:7866",
+    "name": "18-Search",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": 7353,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5,
+    "slug": "18-search"
+  },
+  {
+    "id": "8:7714",
+    "name": "19-Search Active",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": 7353,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "19-search-active"
+  },
+  {
+    "id": "8:8111",
+    "name": "20-Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7403,
+      "y": 7353,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9,
+    "slug": "20-notification"
+  },
+  {
+    "id": "8:7969",
+    "name": "21-Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6878,
+      "y": 7353,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9,
+    "slug": "21-notification"
+  },
+  {
+    "id": "8:8233",
+    "name": "22-No Recents",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6353,
+      "y": 7353,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6,
+    "slug": "22-no-recents"
+  },
+  {
+    "id": "8:11370",
+    "name": "23-Profile Collection",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": 11335,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8,
+    "slug": "23-profile-collection"
+  },
+  {
+    "id": "8:12049",
+    "name": "24-Profile Activity",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": 11335,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 19,
+    "slug": "24-profile-activity"
+  },
+  {
+    "id": "8:11891",
+    "name": "25-Side Profile Options",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7403,
+      "y": 11335,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 14,
+    "slug": "25-side-profile-options"
+  },
+  {
+    "id": "8:12827",
+    "name": "27-Side Profile Options V2",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6878,
+      "y": 11335,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 15,
+    "slug": "27-side-profile-options-v2"
+  },
+  {
+    "id": "8:12455",
+    "name": "28-Add",
+    "type": "FRAME",
+    "bounds": {
+      "x": -8453,
+      "y": 9344,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7,
+    "slug": "28-add"
+  },
+  {
+    "id": "8:12653",
+    "name": "29-Upload",
+    "type": "FRAME",
+    "bounds": {
+      "x": -7928,
+      "y": 9344,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "29-upload"
+  },
+  {
+    "id": "8:14174",
+    "name": "30-Edit Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": -6353,
+      "y": 11335,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 3,
+    "slug": "30-edit-profile"
+  },
+  {
+    "id": "8:14508",
+    "name": "31-Setting",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5828,
+      "y": 11335,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 2,
+    "slug": "31-setting"
+  }
+]
